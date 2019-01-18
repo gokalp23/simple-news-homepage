@@ -1,0 +1,48 @@
+.bg-navbar {
+	background-color: #5504ce;
+}
+
+.nav-social-logo {
+	color: white;
+	font-size: 20px;
+}
+
+.follow-btn {
+	background-color: #5504ce;
+	color: white;
+}
+
+.follow-btn:hover {
+	background-color: white;
+	color: #5504ce;
+}
+
+.card-img-overlay a {
+	text-decoration: none;
+	color:white;
+}
+
+.card-body a {
+	text-decoration: none;
+}
+
+.media-body span {
+	font-size: 14px;
+}
+
+.top-news-height {
+	height: 400px;
+}
+
+.gokonews-btn {
+	background-color: white;
+	border-color: #5504ce;
+	border-radius: 20px;
+	color: #5504ce;
+}
+
+.gokonews-btn:hover {
+	background-color: #5504ce;
+	border-color: #5504ce;
+	color: white;
+}
